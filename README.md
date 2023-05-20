@@ -34,7 +34,7 @@ print("Orijinal metin:", orijinal_metin)
 1. Projeyi klonlayın veya indirin:
 
 ```bash
-https://github.com/mrsemihkaba/sezar_sifreleme.git
+git clone https://github.com/mrsemihkaba/sezar_sifreleme.git
 ```
 2. Proje dizinine gidin:
 ```bash
