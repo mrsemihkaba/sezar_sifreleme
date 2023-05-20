@@ -38,7 +38,7 @@ https://github.com/mrsemihkaba/sezar_sifreleme.git
 ```
 2. Proje dizinine gidin:
 ```bash
-https://github.com/mrsemihkaba/sezar_sifreleme.git
+cd sezar_sifreleme
 ```
 3. Programı çalıştırın:
 ```bash
